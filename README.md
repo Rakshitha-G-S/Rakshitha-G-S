@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakshitha-G-S
 - 🌱 I’m Computer Science Student
 - 💞️ I’m looking to collaborate on Web Develpoment 
-- 📫 How to reach me rakshithags1920@gmail.com, Instagram: rakshithags18
+- 📫 How to reach me rakshithags1920@gmail.com
 - 😄 Pronouns: She/her
 
 
