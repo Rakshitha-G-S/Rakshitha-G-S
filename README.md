@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | 🧠 Tech Explorer | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8F7&center=true&vCenter=true&width=1000&lines=Turning+Ideas+Into+Code;Building+Smart,+Scalable+Apps;React+%7C+Python+%7C+MongoDB+%7C+Next.js;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8F7&center=true&vCenter=true&width=2000&lines=Turning+Ideas+Into+Code;Building+Smart,+Scalable+Apps;React+%7C+Python+%7C+MongoDB+%7C+Next.js;" alt="Typing SVG" />
 </p>
 
 ---
