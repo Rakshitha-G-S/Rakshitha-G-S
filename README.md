@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Rakshitha G S </h1>
+<h1 align="center">Hey👋, I'm Rakshitha G S </h1>
 <h3 align="center">🚀 Software Developer | 🧠 Tech Explorer | </h3>
 
 <p align="center">
