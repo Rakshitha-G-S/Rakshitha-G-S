@@ -9,11 +9,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year CSE Student at **Bapuji Institute of Engineering and Technology, Davangere**
-- 💼 Full-Stack Developer (MERN) with **3+ years** of experience
-- 🛠️ Building smart mobile & web apps that actually solve real-world problems
-- 🎤 Conducted a workshop on API development & backend communication
-- 🧠 Hackathon Finalist & Winner (EcoEquify, Cypher Case, Web Design)
+- 🎓 Final Year CSE Student at **Bapuji Institute of Engineering and Technology, Davangere**
+- 💼 Frontend Developer 
+- 🛠️ Building smart web apps that actually solve real-world problems
+- 🎤 Won Smart India Hackathon in Internal level & Participated in many Hackathons and coding competations. 
 - 🔭 Currently working on:
   - 📱 **Building Startup**
   - 💸 **Ghost Dating App**
@@ -27,18 +26,15 @@
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-3776AB?style=flat-square&logo=React)
+
+
 
 ### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=android)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF4F69?style=flat-square&logo=framer)
 
 ### 🔗 Backend & DevOps
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
@@ -46,8 +42,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
-![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat-square&logo=strapi)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe)
+
 
 ### ☁️ Cloud & CI/CD
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
@@ -57,14 +52,6 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1amSumit&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories,Issues" />
-</p>
 
 ---
 
