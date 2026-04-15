@@ -57,7 +57,9 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakshitha%20&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakshitha-G-S&theme=blue-green)](https://git.io/streak-stats)
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1amSumit&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
