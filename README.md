@@ -62,42 +62,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rakshitha-G-S&theme=black-ice&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amSumit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
+----
 
 ## 🧠 Projects I’m Proud Of
 
-### 🪞 Smart Mirror AI  
-> A voice-controlled assistant for reminders, events, to-dos, news, music & more — displayed on a smart reflective screen.
+### METACRAFT: AI 3D MODEL CREATOR 
+> A Gen-AI model for immersive technologies, AR/VR — displayed as a 3D models.
 
 ![Smart Mirror](https://i.imgur.com/SM5sO8Z.png)
 
----
 
-### ✈️ Arrise – AI Destination Recommender  
-> Book flights + get AI-recommended destinations based on your personality and travel preferences.
-
-![Arrise](https://i.imgur.com/NwbzvRO.png)
-
----
-
-### 🧠 Memory Maestro  
-> Memory card game with levels, scoring, match tracking, keyboard controls and high-score tracking.
-
-![Memory Maestro](https://i.imgur.com/eK0UYYH.png)
-
----
 
 ## 🥇 Achievements
 
 - 🥇 **1st Rank** – CSE Coding Competition  
-- 🥈 **Cypher Case 2024** – 2nd Place  
-- 🏆 **EcoEquify Hackathon** – Finalist (IBM + 1M1B + BNMIT)  
-- 🗣️ Speaker: API Workshop for 2025 CSE Batch  
+- 🥈 ** 
+- 🏆 **
+- 🗣️ 
 
 ---
 
