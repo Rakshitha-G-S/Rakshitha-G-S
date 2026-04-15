@@ -14,7 +14,7 @@
 - 🛠️ Building smart web apps that actually solve real-world problems
 - 🎤 Won Smart India Hackathon in Internal level & Participated in many Hackathons and coding competations. 
 - 🔭 Currently working on:
-  -  **Fake News Detection23=**
+  -  **Fake News Detection**
   - 
 
 ---
