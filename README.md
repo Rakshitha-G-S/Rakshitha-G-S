@@ -14,17 +14,15 @@
 - 🛠️ Building smart web apps that actually solve real-world problems
 - 🎤 Won Smart India Hackathon in Internal level & Participated in many Hackathons and coding competations. 
 - 🔭 Currently working on:
-  - 📱 **Building Startup**
-  - 💸 **Ghost Dating App**
-  - ✈️ **Arrise** – AI-Powered Flight Booking + Destination Recommender
-  - 🪞 **Smart Mirror AI** – Voice-controlled mirror assistant with news, music, reminders
+  -  **Fake News Detection23=**
+  - 
 
 ---
 
 
 ## 🚀 Tech Stack & Tools
 
-### 💻 Languages
+### 💻 Languagesg
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-3776AB?style=flat-square&logo=React)
@@ -75,7 +73,7 @@
 
 ## 🥇 Achievements
 
-- 🥇 **1st Rank** – CSE Coding Competition  
+- 🥇 ** Rank** – CSE Coding Competition  
 - 🥈 ** 
 - 🏆 **
 - 🗣️ 
@@ -93,21 +91,9 @@
 ---
 
 ## ⚡ Fun Facts
-
-- I write clean code like it’s art 🧼  
-- I ship features fast but never break UX 💡  
 - My favorite tool is VS Code – it’s where the magic happens 💻  
-- If it's not blazing fast, it's not done ⚡  
 - I believe in "build what you'll actually use" 🚀  
 
 ---
-
-## ⭐ Show Some Love
-
-If you like what I do:
-
-- ⭐ Star my repos  
-- 🧠 Suggest cool project ideas  
-- 🔗 Collaborate with me!
 
 
