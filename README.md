@@ -70,16 +70,6 @@
 ![Smart Mirror](https://i.imgur.com/SM5sO8Z.png)
 
 
-
-## 🥇 Achievements
-
-- 🥇 ** Rank** – CSE Coding Competition  
-- 🥈 ** 
-- 🏆 **
-- 🗣️ 
-
----
-
 ## 📬 Let’s Connect
 
 <p align="center">
